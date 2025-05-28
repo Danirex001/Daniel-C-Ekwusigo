@@ -29,8 +29,8 @@ Identified cost-saving opportunities and customer health trends, leading to impr
 Project	Description	Tech Stack
 📈 Stock Price Analysis & Prediction	Developed an AI-powered model to forecast stock prices with 95% accuracy.	Python, Scikit-learn, Pandas
 👥 Customer Segmentation Analysis	Used K-Means clustering to analyze purchasing behaviors and improve targeting strategies.	Python, Scikit-learn
-💸 Investment Data Analysis	Built automated workflows to analyze investment patterns and financial behavior.	Python, SQL
-🏥 Hospital Analytics & Readmission Prediction	Built a model to predict patient readmissions and automated hospital reporting.	SQL, Python, Scikit-learn
+ 💸 Investment Data Analysis	Built automated workflows to analyze investment patterns and financial behavior.	Python, SQL
+ 🏥 Hospital Analytics & Readmission Prediction	Built a model to predict patient readmissions and automated hospital reporting.	SQL, Python, Scikit-learn
 🩺 Primary Healthcare Facility Analysis	Cleaned and modeled patient visit data to enhance service delivery.	SQL, Python, Seaborn
 📫 Let’s Connect
 
